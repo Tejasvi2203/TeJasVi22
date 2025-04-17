@@ -1,4 +1,3 @@
-
 public class ArrayIndexExample {
     public static void main(String[] args) {
         try {
