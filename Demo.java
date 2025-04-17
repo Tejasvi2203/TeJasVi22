@@ -1,4 +1,3 @@
-
 // First interface
 interface Printable {
     void print();
