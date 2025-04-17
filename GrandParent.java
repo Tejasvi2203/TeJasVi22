@@ -1,4 +1,3 @@
-
 class Grandparent {
     void displayGrandparent() {
         System.out.println("I am the grandparent.");
