@@ -1,4 +1,3 @@
-
 public class FinallyExample {
     public static void main(String[] args) {
         try {
